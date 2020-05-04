@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.virus-animation {
+  position: relative;
+  background-color: #b66a6a;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+.virus-animation__title {
+  position: absolute;
+  width: 35%;
+  top: 20%;
+  left: 50%;
+}
+
+.virus-animation__icon {
+  position: absolute;
+  width: 15%;
+}
+
+.virus-animation__icon:nth-child(2) {
+  top: 35%;
+  left: -7%;
+}
+
+.virus-animation__icon:nth-child(3) {
+  top: 63%;
+  left: 5%;
+}
+
+.virus-animation__icon:nth-child(4) {
+  top: 42%;
+  left: 13%;
+}
+
+.virus-animation__icon:nth-child(5) {
+  top: 15%;
+  left: 27%;
+}
+
+.virus-animation__icon:nth-child(6) {
+  top: 55%;
+  left: 33%;
+}
+
+.virus-animation__icon:nth-child(7) {
+  top: 45%;
+  left: 46%;
+}
+
+.virus-animation__icon:nth-child(8) {
+  top: 35%;
+  left: 63%;
+}
+
+.virus-animation__icon:nth-child(9) {
+  top: 65%;
+  left: 76%;
+}
+
+.virus-animation__icon:nth-child(10) {
+  top: 35%;
+  left: 88%;
+}
+/*# sourceMappingURL=style.css.map */
